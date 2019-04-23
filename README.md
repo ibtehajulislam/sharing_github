@@ -1,1 +1,1 @@
-# Databases and SQL for Data Science (sharing_github)
+# IBM data science professional certificate(sharing_github)
